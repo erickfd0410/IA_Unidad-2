@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Teorema de bayes\Teorema de bayes\bin\Debug\Teorema de bayes.exe.config
+C:\Users\erick\source\repos\Teorema de bayes\Teorema de bayes\bin\Debug\Teorema de bayes.exe
+C:\Users\erick\source\repos\Teorema de bayes\Teorema de bayes\bin\Debug\Teorema de bayes.pdb
+C:\Users\erick\source\repos\Teorema de bayes\Teorema de bayes\obj\Debug\Teorema de bayes.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Teorema de bayes\Teorema de bayes\obj\Debug\Teorema de bayes.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Teorema de bayes\Teorema de bayes\obj\Debug\Teorema de bayes.exe
+C:\Users\erick\source\repos\Teorema de bayes\Teorema de bayes\obj\Debug\Teorema de bayes.pdb

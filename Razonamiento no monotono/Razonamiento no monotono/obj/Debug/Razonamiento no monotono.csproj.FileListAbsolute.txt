@@ -1,0 +1,7 @@
+C:\Users\erick\source\repos\Razonamiento no monotono\Razonamiento no monotono\bin\Debug\Razonamiento no monotono.exe.config
+C:\Users\erick\source\repos\Razonamiento no monotono\Razonamiento no monotono\bin\Debug\Razonamiento no monotono.exe
+C:\Users\erick\source\repos\Razonamiento no monotono\Razonamiento no monotono\bin\Debug\Razonamiento no monotono.pdb
+C:\Users\erick\source\repos\Razonamiento no monotono\Razonamiento no monotono\obj\Debug\Razonamiento no monotono.csproj.AssemblyReference.cache
+C:\Users\erick\source\repos\Razonamiento no monotono\Razonamiento no monotono\obj\Debug\Razonamiento no monotono.csproj.CoreCompileInputs.cache
+C:\Users\erick\source\repos\Razonamiento no monotono\Razonamiento no monotono\obj\Debug\Razonamiento no monotono.exe
+C:\Users\erick\source\repos\Razonamiento no monotono\Razonamiento no monotono\obj\Debug\Razonamiento no monotono.pdb

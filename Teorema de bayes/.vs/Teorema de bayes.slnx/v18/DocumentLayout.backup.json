@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\erick\\source\\repos\\Teorema de bayes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B67A5579-8D93-490F-B03F-67BBF8DDCEF5}|Teorema de bayes\\Teorema de bayes.csproj|c:\\users\\erick\\source\\repos\\teorema de bayes\\teorema de bayes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B67A5579-8D93-490F-B03F-67BBF8DDCEF5}|Teorema de bayes\\Teorema de bayes.csproj|solutionrelative:teorema de bayes\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\erick\\source\\repos\\Teorema de bayes\\Teorema de bayes\\Program.cs",
+              "RelativeDocumentMoniker": "Teorema de bayes\\Program.cs",
+              "ToolTip": "C:\\Users\\erick\\source\\repos\\Teorema de bayes\\Teorema de bayes\\Program.cs",
+              "RelativeToolTip": "Teorema de bayes\\Program.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAIwA0AAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-29T22:55:24.833Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
